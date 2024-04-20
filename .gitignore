@@ -1,0 +1,4 @@
+# configuração do gitiignore
+
+/node_modules
+/vendor

@@ -1,0 +1,9 @@
+{
+    "initialColor": "rgb(128, 128, 128)",
+    "greenColor": "rgb(0, 255, 0)",
+    "yellowColor": "rgb(255, 255, 0)",
+    "redColor": "rgb(255, 0, 0)",
+    "greenTime": 5000,
+    "yellowTime": 1000,
+    "redTime": 3000
+}
